@@ -1,5 +1,5 @@
 <!--# LΛYRΞBOI | xtdrew-->
-# LayreBoi | xtdrew
+# Erval | LayreBoi
 <!--A young programmer and musical artist-->
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LayreBoi&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&bg_color=23,AA55CC,51B0F2&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
@@ -17,13 +17,12 @@
   
 ```yaml
 webs:
-  portf:    "https://mailayre.com/"
-  music:    "https://layreboi.me/"
-  dev:      "https://xtdrew.xyz/"
-  socials:  "https://mailayre.com/links"
-  youtube:  "https://youtube.com/layreboi"
+  portf/dev: "https://mailayre.com/"
+  music:     "https://layreboi.me/"
+  socials:   "https://mailayre.com/links"
+  youtube:   "https://youtube.com/layreboi"
   
-email:   "layreboi@mailayre.com"
+email:   "layreboi@erval.at"
 discord: "layreboi"
 ```
 </details>
@@ -42,18 +41,21 @@ discord: "layreboi"
   - [Microsoft Windows](https://www.microsoft.com/windows)
   - [Debian](https://www.debian.org/)
   - [Ubuntu](https://ubuntu.com/)
+  - [Arch Linux](https://archlinux.org)
   - [Mac OS](https://www.apple.com/macos/)
 
   ### Languages
   - TypeScript/JavaScript
   - Java
   - C#
+  - Rust
 
   ### Frameworks
   - [Vue](https://vuejs.org/)
   - [Angular](https://vuejs.org/)
   - [Express](https://expressjs.com/)
   - [Spring](https://spring.io/)
+  - [React](https://react.dev)
 
   ### Databases
   - [PostgreSQL](https://www.postgresql.org/)
