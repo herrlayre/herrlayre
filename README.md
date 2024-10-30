@@ -1,5 +1,5 @@
 <!--# LΛYRΞBOI | xtdrew-->
-# Erval | LayreBoi
+# Layre
 <!--A young programmer and musical artist-->
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LayreBoi&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&bg_color=23,AA55CC,51B0F2&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
@@ -17,9 +17,8 @@
   
 ```yaml
 webs:
-  portf/dev: "https://mailayre.com/"
+  portf/dev: "https://www.layre.moe"
   music:     "https://layreboi.me/"
-  socials:   "https://mailayre.com/links"
   youtube:   "https://youtube.com/layreboi"
   
 email:   "layreboi@erval.at"
@@ -47,7 +46,6 @@ discord: "layreboi"
   ### Languages
   - TypeScript/JavaScript
   - Java
-  - C#
   - Rust
 
   ### Frameworks
