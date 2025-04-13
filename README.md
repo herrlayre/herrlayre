@@ -24,7 +24,7 @@ webs:
   youtube:   "https://youtube.com/layreboi"
   youtube:   "https://youtube.com/@layreofficial"
   
-email:   "layreboi@erval.at"
+email:   "hello@layre.moe"
 discord: "layreboi"
 ```
 </details>
