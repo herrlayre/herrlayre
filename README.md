@@ -37,7 +37,7 @@ discord: "layreboi"
 
   ### IDE
   - [Visual Studio Code](https://code.visualstudio.com/)
-  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+<!--  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)-->
 
   ### OS
   - [Microsoft Windows](https://www.microsoft.com/windows)
