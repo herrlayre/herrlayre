@@ -37,14 +37,14 @@ discord: "layreboi"
 
   ### IDE
   - [Visual Studio Code](https://code.visualstudio.com/)
-  - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+<!--  - [IntelliJ IDEA](https://www.jetbrains.com/idea/) -->
 
   ### OS
   - [Microsoft Windows](https://www.microsoft.com/windows)
   - [Debian](https://www.debian.org/)
   - [Ubuntu](https://ubuntu.com/)
   - [Arch Linux](https://archlinux.org)
-  - [Mac OS](https://www.apple.com/macos/)
+<!--  - [Mac OS](https://www.apple.com/macos/) -->
 
   ### Languages
   - TypeScript/JavaScript
@@ -53,7 +53,7 @@ discord: "layreboi"
 
   ### Frameworks
   - [Vue](https://vuejs.org/)
-  - [Angular](https://vuejs.org/)
+<!--  - [Angular](https://vuejs.org/) wait why the hell vue link in Angular hyperlink LMAO -->
   - [Express](https://expressjs.com/)
   - [Spring](https://spring.io/)
   - [React](https://react.dev)
