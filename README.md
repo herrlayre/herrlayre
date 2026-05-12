@@ -10,7 +10,7 @@
 <!--  > Hi, I'm Pierre. I love to experiment around with coding and study application development. As hobbies I mess around with server infrastructures, also program applications (as a full-stack developer), and make music under the name of "LayreBoi", as I grew up with my musical parents.
   > (I'm an electronic guy xd) -->
 
-> Hi! I'm Pierre, but people online call me Layre. Computers have been my passion since childhood, and currently I have an apprenticeship as an application developer.
+> Hi! I'm Layre. Computers have been my passion since childhood, and currently I have an apprenticeship as an application developer.
 >
 > As hobbies I code programs, and build and manage my dream infrastructure, as well as compose and make music, where I learn to express my vision and feelings to the world through it.
 <!-- </details> -->
